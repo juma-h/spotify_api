@@ -1,6 +1,40 @@
 body{
     margin:0;
     padding:0;
+    background-color:black;
+}
+.container{
+    /* border: solid yellow; */
+    display: flex;
+    flex-direction: row;
+    min-width: -webkit-fill-available;
+    height:100vh;
+    background-color: black;
+    color:white;
+    
+
+}
+
+.plain{
+    /* border: solid pink; */
+    width: 50%;
+    background-color: #1DB954;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.select{
+    /* border: solid red; */
+    width: 50%;
+    padding:20px;
+    background-color: black;
+    padding-left:4em;
+    margin-top:10% ;
+}
+
+.name{
+    color: grey;
 }
 
 .btn.dropdown-toggle  {
@@ -39,23 +73,14 @@ img.track {
     border: 1px solid #8a8a8a;
 }
 
-.container{
-    /* border: solid yellow; */
-    display: flex;
-    flex-direction: row;
-    min-width: -webkit-fill-available;
- height:auto;
-
+.img-logo{
+    /* border: 1px solid black; */
+    /* margin:5em; */
+    width:35%;
+    height:20%;
+    margin-top: 30%;
 }
-
-.plain{
-    /* border: solid pink; */
-    width: 50%;
-    background-color: #1DB954;
-}
-
-.select{
-    /* border: solid red; */
-    width: 50%;
-    padding:20px;
+.name-2{
+    font-size: small;
+    color:#e1e1e1;
 }
