@@ -1,7 +1,7 @@
 # Spotify API implmentation.
 
 - Through youtube tutorial , I was able to create this spotify mini app.
-- The app sifts through tokens and ednpoints.
+- The app sifts through tokens and endpoints.
 
 > Client Id : Your own provided id 
 > Client Secret: Provided too after creating applications on developers page.
