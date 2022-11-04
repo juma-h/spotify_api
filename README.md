@@ -24,3 +24,12 @@ This is the functionality of the application .It has :
 
 ### styles
 - This holds the styles of the page.
+
+## What it does ,
+It prompts you to select from a list of genres, and then playlists in that particular genre.
+Then displays lists of songs in that playlist, then will display a song's info on the side. See below:
+
+![new_cap](images/new_cap.PNG)
+
+## *FOR NOW*
+
